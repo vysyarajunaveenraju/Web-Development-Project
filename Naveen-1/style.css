@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+.inspirational-img{
+    width:50%;
+    height: 50%;
+    border:3px dashed white;
+   
+}
+.inspirational-img-1{
+    width: 50%;
+    height:50%;
+    border:3px dashed white;
+    margin-left: 51%;
+
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: red;
+}
+
+.second{
+    color:whitesmoke;
+    font-size: larger;
+    text-align: center;
+    font-family: "Playwrite AT", cursive;
+    font-optical-sizing: auto;
+}
